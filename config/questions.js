@@ -245,5 +245,125 @@ export const questionAnswers = [
   {
     "question": "What will a 1 BHK in Kurla cost in 5 years?",
     "answer": "A 1 BHK in Kurla is projected to cost ₹95 lakh in 5 years, with steady urban development in the area."
-  }
+  },
+ {
+        "question": "What is the price of a 2 BHK in Chembur?",
+        "answer": "A 2 BHK in Chembur, known for its growing infrastructure and connectivity, is estimated at ₹1.4 crore."
+    },
+    {
+        "question": "What is the current cost of a luxury villa in Lonavala?",
+        "answer": "A luxury villa in Lonavala, considering its scenic beauty and rising popularity as a getaway, costs ₹8 crore."
+    },
+    {
+        "question": "How much does a 3 BHK in Powai cost currently?",
+        "answer": "A 3 BHK in Powai, with its proximity to tech hubs and serene surroundings, costs ₹2.5 crore."
+    },
+    {
+        "question": "What is the predicted cost of a 1 BHK in Mira Road in 5 years?",
+        "answer": "Considering rapid development and affordability, a 1 BHK in Mira Road is expected to cost ₹50 lakh in 5 years."
+    },
+    {
+        "question": "What is the current price for a 4 BHK flat in Marine Drive?",
+        "answer": "A 4 BHK in Marine Drive, with its iconic location and premium amenities, is priced at ₹30 crore."
+    },
+    {
+        "question": "What is the cost of a studio apartment in Vashi?",
+        "answer": "A studio apartment in Vashi, given its good connectivity and amenities, costs ₹40 lakh."
+    },
+    {
+        "question": "What is the price range for a 2 BHK flat in Kandivali?",
+        "answer": "A 2 BHK in Kandivali, with nearby schools and offices, costs between ₹1.2 crore to ₹1.5 crore."
+    },
+    {
+        "question": "What is the price of a luxury apartment in Tardeo?",
+        "answer": "A luxury apartment in Tardeo, a highly sought-after area, costs around ₹25 crore."
+    },
+    {
+        "question": "What is the cost of a 3 BHK flat in Santacruz East?",
+        "answer": "A 3 BHK in Santacruz East, with excellent connectivity to business hubs, costs ₹2.8 crore."
+    },
+    {
+        "question": "What will be the price of a 1 BHK in Dahisar in 3 years?",
+        "answer": "A 1 BHK in Dahisar, with ongoing infrastructure developments, is expected to cost ₹60 lakh in 3 years."
+    },
+    {
+        "question": "What is the estimated cost of a penthouse in Pali Hill?",
+        "answer": "A penthouse in Pali Hill, known for its luxury appeal, is priced at ₹35 crore."
+    },
+    {
+        "question": "How much will a 2 BHK in Virar cost in 5 years?",
+        "answer": "A 2 BHK in Virar, with upcoming metro connectivity, is expected to cost ₹70 lakh in 5 years."
+    },
+    {
+        "question": "What is the price of a 3 BHK in Ghatkopar?",
+        "answer": "A 3 BHK in Ghatkopar, factoring in its central location and amenities, costs ₹1.9 crore."
+    },
+    {
+        "question": "What is the current price for a 1 BHK in Dadar West?",
+        "answer": "A 1 BHK in Dadar West, with its strategic location, is priced at ₹1.1 crore."
+    },
+    {
+        "question": "How much does a 2 BHK in Kharghar cost?",
+        "answer": "A 2 BHK in Kharghar, with excellent social infrastructure, costs ₹85 lakh."
+    },
+    {
+        "question": "What is the price of a luxury bungalow in Karjat?",
+        "answer": "A luxury bungalow in Karjat, a serene and developing area, costs ₹6 crore."
+    },
+    {
+        "question": "What is the cost of a 3 BHK flat in Malabar Hill?",
+        "answer": "A 3 BHK in Malabar Hill, a prime locality, is priced at ₹18 crore."
+    },
+    {
+        "question": "How much will a 1 BHK in Panvel cost in 6 years?",
+        "answer": "A 1 BHK in Panvel, considering upcoming infrastructure like the Navi Mumbai airport, will cost ₹50 lakh in 6 years."
+    },
+    {
+        "question": "What is the price of a 2 BHK near CST Station?",
+        "answer": "A 2 BHK near CST Station, with its historic location and connectivity, costs ₹2.5 crore."
+    },
+    {
+        "question": "What will a 3 BHK in Wadala cost in 7 years?",
+        "answer": "A 3 BHK in Wadala, factoring in rapid urban development, will cost ₹3 crore in 7 years."
+    },
+    {
+        "question": "How much is a studio apartment in Byculla currently?",
+        "answer": "A studio apartment in Byculla, with moderate demand and rising infrastructure, costs ₹1 crore."
+    },
+    {
+        "question": "What is the price prediction for a 2 BHK in Seawoods in 5 years?",
+        "answer": "A 2 BHK in Seawoods, considering its premium location and facilities, is expected to cost ₹1.8 crore in 5 years."
+    },
+    {
+        "question": "How much does a luxury apartment in Colaba cost?",
+        "answer": "A luxury apartment in Colaba, with its iconic location, is priced at ₹22 crore."
+    },
+    {
+        "question": "What is the cost of a 4 BHK duplex in Versova?",
+        "answer": "A 4 BHK duplex in Versova, known for its coastal view and luxury living, costs ₹14 crore."
+    },
+    {
+        "question": "What is the expected cost of a 1 BHK in Kalyan in 3 years?",
+        "answer": "A 1 BHK in Kalyan is predicted to cost ₹45 lakh in 3 years due to ongoing development."
+    },
+    {
+        "question": "What is the price of a 2 BHK in Worli?",
+        "answer": "A 2 BHK in Worli, with its proximity to the sea link and luxury amenities, costs ₹3.5 crore."
+    },
+    {
+        "question": "How much will a 3 BHK in Borivali cost in 8 years?",
+        "answer": "A 3 BHK in Borivali is predicted to cost ₹2.8 crore in 8 years due to rising demand and urban development."
+    },
+    {
+        "question": "What is the current price of a 1 BHK in Grant Road?",
+        "answer": "A 1 BHK in Grant Road, with good transport connectivity, is priced at ₹1 crore."
+    },
+    {
+        "question": "What is the estimated cost of a 2 BHK in Bandra East?",
+        "answer": "A 2 BHK in Bandra East, known for its central location and upcoming projects, costs ₹2.8 crore."
+    },
+    {
+        "question": "How much does a 1 BHK in Andheri East cost?",
+        "answer": "A 1 BHK in Andheri East is priced at ₹1 crore, considering its connectivity and amenities."
+    }
 ]
